@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/935862506987380737/x8wLxkUx.jpg" ,Dream TV / Турция
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStx0ib7vubEm7wIF6BGHnc2PvPzAcvQzRShCuBBC0RxZqd6rEj" , Bridge TV Classic
+http://plmgr-bridgemedia.cdnvideo.ru/bridge_classic/playlist.m3u8
