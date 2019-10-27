@@ -2,4 +2,4 @@
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/935862506987380737/x8wLxkUx.jpg" ,Dream TV / Турция
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://sun9-50.userapi.com/c851020/v851020476/1a185c/JRlWd56uOsE.jpg" , Bridge TV Classic
-http://95.52.165.20:82/play/a01d
+http://178.22.45.251:4022/udp/239.0.10.36:1234
