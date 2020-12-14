@@ -3,3 +3,5 @@
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://sun9-50.userapi.com/c851020/v851020476/1a185c/JRlWd56uOsE.jpg" , Bridge TV Classic
 http://178.22.45.251:4022/udp/239.0.10.36:1234
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Retro_Music_TV_logo.png/250px-Retro_Music_TV_logo.png" , Retro Music TV / CZ
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
